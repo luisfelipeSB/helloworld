@@ -1,7 +1,6 @@
 package pt.iade.helloworld.models;
 
 public class Unit {
-    
     String name;
     float grade;
     int semester;

@@ -1,5 +1,4 @@
 package pt.iade.helloworld.controllers;
-
 import java.util.ArrayList;
 
 import org.slf4j.Logger;
